@@ -4,4 +4,5 @@ It is used for some code that may come in handy in **Coding Challenges** that al
 ```python
 print("Enjoy, Feel free to use")
 ```
-> But don't forget to mention us!
+But don't forget to mention us!
+> If you would like to work on this project, join the Toolset Troop. @gihs-rpc/toolset-troop
